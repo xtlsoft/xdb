@@ -3,7 +3,7 @@ XDB，一个轻量级但不简单的文件数据库，用php编写，只要有ph
 版本说明
 -------
 版本：1.0.1-alpha2，实现了select,where,DB,showDB,showTBL,insert,update,delete,makeDB,makeTBL,dropDB,dropTBL，预计实现,makeUSER,deleteUSER,chpwd,chper<br>
-目前还只能include引用 `/xdb/server/index.ph[` ，日后实现curl远程remote。<br>
+目前还只能include引用 `/xdb/server/index.php` ，日后实现curl远程remote。<br>
 
 如何使用？
 -----
