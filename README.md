@@ -1,4 +1,6 @@
 # XDB
+## Notice: This Project is no longer supported. Please see https://github.com/xtlsoft/NonDB
+
 XDB，一个轻量级但不简单的文件数据库，用php编写，只要有php就可以用。
 版本说明
 -------
